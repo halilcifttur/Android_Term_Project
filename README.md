@@ -1,4 +1,4 @@
-# # Android Term Project - Bolilgram
+# Android Term Project - Bolilgram
 
 ### Description: 
 Instagram-like Firebase based Android Application
